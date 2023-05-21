@@ -1,0 +1,15 @@
+body {
+  background-color: rgb(194, 74, 202);
+}
+
+.red {
+  color: rgb(241, 50, 2);
+}
+
+.blue {
+  color: blue;
+}
+
+.font {
+  font-style: oblique;
+}
